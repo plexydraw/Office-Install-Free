@@ -22,7 +22,12 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
   
 **¡Gracias por apoyar a La Corona Network! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de los enlaces proporcionados.**
 
-                                                                                                              # Como Obtenerlo
+                                                                                                          
+<p align="center">
+  <h3>Como Obtenerlo</h3>
+  <a href="[https://github.com/tu-usuario/tu-repositorio/releases/latest/download/setup.exe](https://youtube.com)">
+    <img src="/archivos/boton-descarga.png" alt="Descargar">
+  </a>
+</p>
 
-
-                                                                                          [![Descargar](/archivos/boton-descarga.png)](https://youtube.com)
+                                                                                        
