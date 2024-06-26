@@ -46,7 +46,7 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 - Seleccione la opción remarcada
 
 - Luego de la instalación de python ejecute requerimientos.exe
-![opción](/archivos/descargas2.png)
+![opción](/archivos/descarga2.png)
 
 - Espera a la instalación de todo
 - Listo ahora y ya puede ejecutar el instalador de office 
