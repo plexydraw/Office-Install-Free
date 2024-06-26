@@ -22,5 +22,7 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
   
 **¡Gracias por apoyar a La Corona Network! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de los enlaces proporcionados.**
 
+                                                                                                              # Como Obtenerlo
 
-[![Descargar](/archivos/boton-descarga.png)](https://youtube.com)
+
+                                                                                          [![Descargar](/archivos/boton-descarga.png)](https://youtube.com)
