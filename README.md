@@ -24,14 +24,13 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 
 # Pasos de Instalación
 
-- descarga el programa desde el boton verde
+- Descarga el programa desde el boton verde
 
 [![Descargar](/archivos/boton-descarga.png)]([https://youtube.com])
 
+- Descomprimelo en el escritorio
 
-- descomprimelo en el escritorio
-
-- abre la carpeta instalación y ejecuta el archivo python-3.12.4-amd64.exe para realizar la instalación de python luego sigue estos pasos
+- Abre la carpeta instalación y ejecuta el archivo python-3.12.4-amd64.exe para realizar la instalación de python luego sigue estos pasos
 ![opción](/archivos/descargas.png)
 
 ![paso 1](/archivos/paso1.png)
@@ -45,5 +44,11 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 ![paso 3](/archivos/paso3.png)
 
 - Seleccione la opción remarcada
+
+- Luego de la instalación de python ejecute requerimientos.exe
+![opción](/archivos/descargas2.png)
+
+- Espera a la instalación de todo
+- Listo ahora y ya puede ejecutar el instalador de office 
 
                                                                                         
