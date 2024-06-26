@@ -30,12 +30,20 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 
 
 - descomprimelo en el escritorio
-- abre la carpeta instalación y ejecuta el archivo python-3.12.4-amd64.exe para realizar la instalación de python luego sigue estos pasos
 
+- abre la carpeta instalación y ejecuta el archivo python-3.12.4-amd64.exe para realizar la instalación de python luego sigue estos pasos
+![opción](/archivos/descargas.png)
 
 ![paso 1](/archivos/paso1.png)
-![paso 2](/archivos/paso1.png)
-![paso 3](/archivos/paso1.png)
-![paso 4](/archivos/paso1.png)
+
+- Activa las opciones remarcadas y luego precione install
+  
+![paso 2](/archivos/paso2.png)
+
+- Espere la instalación
+  
+![paso 3](/archivos/paso3.png)
+
+- Seleccione la opción remarcada
 
                                                                                         
