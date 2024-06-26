@@ -21,3 +21,6 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 - Discord: Únete a nuestra comunidad en Discord para recibir soporte, participar en discusiones y estar al tanto de las últimas actualizaciones.
   
 **¡Gracias por apoyar a La Corona Network! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de los enlaces proporcionados.**
+
+
+[![Descargar](/archivos/dowload.png)](https://youtube.com)
