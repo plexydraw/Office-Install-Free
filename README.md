@@ -22,12 +22,20 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
   
 **¡Gracias por apoyar a La Corona Network! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos a través de los enlaces proporcionados.**
 
-                                                                                                          
-<p style="display:flex; "align="center" witdh:100%; flex-direction:col;">
-  <h3>Como Obtenerlo</h3>
-  <a href="[https://github.com/tu-usuario/tu-repositorio/releases/latest/download/setup.exe](https://youtube.com)">
-    <img src="/archivos/boton-descarga.png" alt="Descargar">
-  </a>
-</p>
+# Pasos de Instalación
+
+- descarga el programa desde el boton verde
+
+[![Descargar](/archivos/boton-descarga.png)]([https://youtube.com])
+
+
+- descomprimelo en el escritorio
+- abre la carpeta instalación y ejecuta el archivo python-3.12.4-amd64.exe para realizar la instalación de python luego sigue estos pasos
+
+
+![paso 1](/archivos/paso1.png)
+![paso 2](/archivos/paso1.png)
+![paso 3](/archivos/paso1.png)
+![paso 4](/archivos/paso1.png)
 
                                                                                         
